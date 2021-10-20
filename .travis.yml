@@ -7,5 +7,4 @@ before_install:
 script:
     - pytest --cov=./
 after_success:
-    - echo "$CODECOV_TOKEN='05ec445e-d9a3-4b77-bac1-1066c85ed9df"
     - codecov
