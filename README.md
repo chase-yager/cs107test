@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)
-[![Coverage Status](https://codecov.io/gh/dsondak/cs207testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dsondak/cs207testing)
+[![Build Status](https://app.travis-ci.com/chase-yager/cs107test.svg?branch=main)
+[![codecov](https://codecov.io/gh/chase-yager/cs107test/branch/main/graph/badge.svg?token=FF6XYP5LLE)](https://codecov.io/gh/chase-yager/cs107test)
 # cs107test
 test for homework 4
